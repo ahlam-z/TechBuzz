@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>121560687373-m3hj7ljfj3593b4v8flr4vscn24h6apk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.121560687373-m3hj7ljfj3593b4v8flr4vscn24h6apk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC4ft86nfGVcFUb4ERyTBlGspQNEOKicuY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>121560687373</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Az.TechBuzz</string>
+	<key>PROJECT_ID</key>
+	<string>techbuzz-cfda8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>techbuzz-cfda8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:121560687373:ios:9ff4d14ae7bdbf6da0c644</string>
+	<key>DATABASE_URL</key>
+	<string>https://techbuzz-cfda8.firebaseio.com</string>
+</dict>
+</plist>
